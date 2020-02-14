@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.15.
 
 ## npm modules
-Navigate inside the folder in terminal and Run npm install
+Navigate inside the folder in terminal and Run 'npm install'
 
 ## Development server
 
